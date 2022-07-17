@@ -1,0 +1,9 @@
+Name: Amit Kumar Pal
+Roll No. 20EC10008
+Neural Art Task 1 (part 1): Cover-Photo for KDAG Page:
+Dall-E promt used for Cover-Photo:
+
+•	A world of data science.
+•	Big data analysis.
+•	AI meeting human.
+•	Analytics world.
